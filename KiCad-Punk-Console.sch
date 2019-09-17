@@ -478,4 +478,37 @@ F 3 "~" H 6000 3500 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	5300 3500 5800 3500
+$Comp
+L Mechanical:Fiducial FID1
+U 1 1 5D884543
+P 6700 2200
+F 0 "FID1" H 6785 2246 50  0000 L CNN
+F 1 "Fiducial" H 6785 2155 50  0000 L CNN
+F 2 "" H 6700 2200 50  0001 C CNN
+F 3 "~" H 6700 2200 50  0001 C CNN
+	1    6700 2200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:Fiducial FID2
+U 1 1 5D8849CD
+P 7200 2200
+F 0 "FID2" H 7285 2246 50  0000 L CNN
+F 1 "Fiducial" H 7285 2155 50  0000 L CNN
+F 2 "" H 7200 2200 50  0001 C CNN
+F 3 "~" H 7200 2200 50  0001 C CNN
+	1    7200 2200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:Fiducial FID3
+U 1 1 5D884D25
+P 7700 2200
+F 0 "FID3" H 7785 2246 50  0000 L CNN
+F 1 "Fiducial" H 7785 2155 50  0000 L CNN
+F 2 "" H 7700 2200 50  0001 C CNN
+F 3 "~" H 7700 2200 50  0001 C CNN
+	1    7700 2200
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
